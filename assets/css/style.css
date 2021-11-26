@@ -7,7 +7,7 @@
 .num-one {
   height: 100vh;
   margin-top: 0;
-  background-image: url("images/Landing\ Section/background.jpg");
+  background-image: url(/My-Portfolio/images/Landing\ Section/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-image: linear-gradient(
@@ -15,7 +15,7 @@
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url(images/Landing\ Section/background.jpg);
+    url(/My-Portfolio/images/Landing\ Section/background.jpg);
   overflow-x: hidden;
   background-position: center;
 }
