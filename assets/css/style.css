@@ -4,21 +4,7 @@
     overflow-y: auto;
 } */
 
-.num-one {
-  height: 100vh;
-  margin-top: 0;
-  background-image: url(/My-Portfolio/images/Landing\ Section/background.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: linear-gradient(
-      0deg,
-      rgba(0, 0, 0, 0.7),
-      rgba(0, 0, 0, 0.7)
-    ),
-    url(/My-Portfolio/images/Landing\ Section/background.jpg);
-  overflow-x: hidden;
-  background-position: center;
-}
+
 
 /* .num-one {
 
@@ -241,7 +227,7 @@ ul.timeline > li {
 }
 ul.timeline > li:before {
   content: " ";
-  background: rgb(134, 134, 134);
+  background: rgb(223, 146, 4);
   display: inline-block;
   position: absolute;
   border-radius: 50%;
@@ -314,7 +300,7 @@ ul.timeline > li:before {
     background-color: #d4d9df;
     border-radius: 15px;
   }
-  .num-one {
+  /* .num-one {
     height: 100vh;
     margin-top: 0;
 
@@ -327,7 +313,7 @@ ul.timeline > li:before {
       ),
       url(images/Landing\ Section/background.jpg);
     overflow-x: hidden;
-  }
+  } */
 
   /* navbar */
 
